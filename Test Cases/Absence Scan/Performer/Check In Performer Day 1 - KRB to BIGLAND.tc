@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>Check Out Day 2 - Check Out Gala Dinner</name>
+   <name>Check In Performer Day 1 - KRB to BIGLAND</name>
    <tag></tag>
    <comment></comment>
    <recordOption>OTHER</recordOption>
-   <testCaseGuid>d481bce5-cbe9-4ae2-8c79-52899e0fe55d</testCaseGuid>
+   <testCaseGuid>be236b07-d16b-48e7-8419-23f108d5b08f</testCaseGuid>
 </TestCaseEntity>

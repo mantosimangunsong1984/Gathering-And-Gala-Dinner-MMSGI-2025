@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>Check In Day 2 - Check In Gala Dinner</name>
+   <name>Check Out Permission Late Day 2 - Check Out Gala Dinner</name>
    <tag></tag>
    <comment></comment>
    <recordOption>OTHER</recordOption>
-   <testCaseGuid>270fea1b-afde-4b39-99d7-adf3ea3ef73d</testCaseGuid>
+   <testCaseGuid>5c019a6c-1845-4949-a21a-4bc5a52503a6</testCaseGuid>
 </TestCaseEntity>

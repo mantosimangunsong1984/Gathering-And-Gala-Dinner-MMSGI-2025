@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>Check In Day 2 - Ballroom Bigland</name>
+   <name>Check In Performer Day 2 - Ballroom Bigland</name>
    <tag></tag>
    <comment></comment>
    <recordOption>OTHER</recordOption>
-   <testCaseGuid>4c054077-9605-4d42-8692-965768ea3be4</testCaseGuid>
+   <testCaseGuid>228a5ce5-84ab-4149-b0eb-91749c8744fa</testCaseGuid>
 </TestCaseEntity>
