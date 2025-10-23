@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_is Bus_Edit</name>
+   <tag></tag>
+   <elementGuidId>55ca5830-6155-487a-a8bb-84e7e77f8baa</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//select[@id='is_bus'])[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#formEdit > div.modal-content > div.modal-body > div > div > div.form-group.row > div.col-sm-6 > #is_bus</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>#formEdit #is_bus</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>f4c00fac-45c3-464e-aa0a-9ee0ad0c28a9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>is_bus</value>
+      <webElementGuid>33f10bc8-5b1a-48d2-8d9c-18ff03ec2db2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-control form-control</value>
+      <webElementGuid>5c20e7c1-d3e2-46db-b32b-25c5fc75deb5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>is_bus</value>
+      <webElementGuid>9a7b6071-cd80-4468-9f39-75bc2e55b534</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                                                    Yes
+                                                    No
+                                                </value>
+      <webElementGuid>bbe8f958-bdab-4cbb-b814-e7084b078aa6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;formEdit&quot;)/div[@class=&quot;modal-content&quot;]/div[@class=&quot;modal-body&quot;]/div[1]/div[1]/div[@class=&quot;form-group row&quot;]/div[@class=&quot;col-sm-6&quot;]/select[@id=&quot;is_bus&quot;]</value>
+      <webElementGuid>88451423-008d-4a86-9489-99beafbb8997</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//select[@id='is_bus'])[2]</value>
+      <webElementGuid>9635eeb6-8647-4088-aa84-7b799ad864be</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='formEdit']/div/div[2]/div/div/div[2]/div/select</value>
+      <webElementGuid>01dc5c24-a995-4e31-aff3-b460026a33c1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='is Bus'])[2]/following::select[1]</value>
+      <webElementGuid>e95e86a1-8b1d-4952-9f0d-bc0edb3a5e7e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Location'])[2]/following::select[1]</value>
+      <webElementGuid>9eed9743-e5d9-48ce-bcb8-9d85ff4f57af</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Status'])[3]/preceding::select[1]</value>
+      <webElementGuid>5340ca3a-879a-40c3-a995-9fb628b0c706</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Notes'])[3]/preceding::select[2]</value>
+      <webElementGuid>ad8424b9-683c-4782-b8bd-230e93314f8b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/form/div/div[2]/div/div/div[2]/div/select</value>
+      <webElementGuid>9aaa5189-bbfd-4f6f-b03c-4b8f15c031ab</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@id = 'is_bus' and @name = 'is_bus' and (text() = '
+                                                    Yes
+                                                    No
+                                                ' or . = '
+                                                    Yes
+                                                    No
+                                                ')]</value>
+      <webElementGuid>090c43bc-5609-4761-99fe-4f9b5acc812b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_Avaliable</name>
+   <tag></tag>
+   <elementGuidId>ad7a3108-0d43-494a-9984-caecfe61f3c2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#v_doorprize</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='v_doorprize']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>#formAddNewInvitation #v_doorprize</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>02611500-e2e1-4f08-9fcf-beed3978da37</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>v_doorprize</value>
+      <webElementGuid>2bce5ef0-e50e-41f4-b82f-ebc01c9779ca</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-control form-control</value>
+      <webElementGuid>d70beacb-e9cd-4af8-8429-86df2e51a320</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>v_doorprize</value>
+      <webElementGuid>08c7a3e2-9358-4706-8bdc-0eb5b9a9a795</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                                                    Avaliable
+                                                    Not Avaliable
+                                                </value>
+      <webElementGuid>096e0608-c3b9-4b60-afb7-5ddf254a90ed</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;formAddNewInvitation&quot;)/div[@class=&quot;modal-content&quot;]/div[@class=&quot;modal-body&quot;]/div[1]/div[1]/div[@class=&quot;form-group row&quot;]/div[@class=&quot;col-sm-12&quot;]/select[@id=&quot;v_doorprize&quot;]</value>
+      <webElementGuid>c3fe5eab-e44c-4c5b-9ef9-1e7ffd0ce1dc</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='v_doorprize']</value>
+      <webElementGuid>245711c7-fbff-4524-96e6-81008d2ff4d1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='formAddNewInvitation']/div/div[2]/div/div/div[9]/div/select</value>
+      <webElementGuid>4c4c27d8-928b-4fcb-bd8e-7859f3364ff0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Form Add Invitation'])[1]/following::select[3]</value>
+      <webElementGuid>fff00d78-1642-4a16-9f94-d4d790bedf44</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Showing 1 to 10 of 89 entries'])[1]/following::select[3]</value>
+      <webElementGuid>0a91893e-ffcc-43a1-be85-940721ae05cd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Save'])[1]/preceding::select[1]</value>
+      <webElementGuid>594d6631-10cd-45b3-a3d4-121c7c72518e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Form Edit Invitation'])[1]/preceding::select[1]</value>
+      <webElementGuid>be5ec951-ea81-4116-b475-f47b85bf2750</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[9]/div/select</value>
+      <webElementGuid>e5456e57-6c10-4cb5-a1ed-a15f748657ad</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@id = 'v_doorprize' and @name = 'v_doorprize' and (text() = '
+                                                    Avaliable
+                                                    Not Avaliable
+                                                ' or . = '
+                                                    Avaliable
+                                                    Not Avaliable
+                                                ')]</value>
+      <webElementGuid>ff21dc42-ba98-4443-9c80-342ad3b38671</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

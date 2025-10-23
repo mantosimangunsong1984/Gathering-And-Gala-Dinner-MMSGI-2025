@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_Edit</name>
+   <tag></tag>
+   <elementGuidId>68898aed-57ac-4bf1-bd11-42b6ca88758f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>i.fa.fa-edit</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='btn_edit_user']/i</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=row[name=&quot;Super Admin rio.ariandi@mmsgroup.co.id 2025-09-30T09:52:07.000000Z   &quot;i] >> internal:attr=[title=&quot;Edit&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>dd53f43e-cb19-4e43-b44c-28bfac44b3de</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fa fa-edit</value>
+      <webElementGuid>0a56be66-ccf3-41b8-a1e0-1fceaa03dd37</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;dtUserData&quot;)/tbody[1]/tr[@class=&quot;odd&quot;]/td[@class=&quot;dt-center&quot;]/button[@id=&quot;btn_edit_user&quot;]/i[@class=&quot;fa fa-edit&quot;]</value>
+      <webElementGuid>fbd1780a-e9be-419b-9851-2ddb83decf7b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//button[@id='btn_edit_user']/i</value>
+      <webElementGuid>c65be1bc-0a08-4c2f-869b-e2b01f268cd1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[4]/button/i</value>
+      <webElementGuid>ba5f3370-a7ed-4a1b-9c3c-4a5322b84ce3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

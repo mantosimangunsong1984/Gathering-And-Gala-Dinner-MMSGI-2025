@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_Form Edit Invitation_bus_no</name>
+   <tag></tag>
+   <elementGuidId>f2348c2d-2ae2-425e-b3ea-16b38238d421</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#formEditInvitation > div.modal-content > div.modal-body > div > div > div.form-group.row > div.col-sm-12 > #bus_no</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//input[@id='bus_no'])[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=textbox[name=&quot;Bus No&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>8fb11a90-4b45-417f-8373-21edacbe0568</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>bb69e2a5-8e8a-4362-bc72-802111ed6a91</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-control form-control</value>
+      <webElementGuid>282d891c-d11d-4654-8b51-1af30e00a4b0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>bus_no</value>
+      <webElementGuid>a6f9636e-5908-4994-acb0-178595a6009e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>bus_no</value>
+      <webElementGuid>1df8a6c5-93a7-4dcc-988c-6e90ac6b9810</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>Bus No</value>
+      <webElementGuid>cd92ef44-8777-47b5-a13c-1c996403a764</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;formEditInvitation&quot;)/div[@class=&quot;modal-content&quot;]/div[@class=&quot;modal-body&quot;]/div[1]/div[1]/div[@class=&quot;form-group row&quot;]/div[@class=&quot;col-sm-12&quot;]/input[@id=&quot;bus_no&quot;]</value>
+      <webElementGuid>6954b59b-1660-44b2-86c0-0d271a5019da</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//input[@id='bus_no'])[2]</value>
+      <webElementGuid>3f60caaf-2d94-452d-b4b5-01e2b60421f1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='formEditInvitation']/div/div[2]/div/div/div[7]/div/input</value>
+      <webElementGuid>1ddaf197-54c0-4535-badf-715bb2b28bfb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/form/div/div[2]/div/div/div[7]/div/input</value>
+      <webElementGuid>3731f213-f9c6-412a-b17a-39daadc79301</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'text' and @name = 'bus_no' and @id = 'bus_no' and @placeholder = 'Bus No']</value>
+      <webElementGuid>eb26f86c-dc00-40c0-b1ee-9249cac83d50</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

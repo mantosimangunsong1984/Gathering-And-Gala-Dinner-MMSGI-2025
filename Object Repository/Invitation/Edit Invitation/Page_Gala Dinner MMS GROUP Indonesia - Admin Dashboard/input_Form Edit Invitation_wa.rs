@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_Form Edit Invitation_wa</name>
+   <tag></tag>
+   <elementGuidId>9fa2163e-4370-4ecd-a5a1-c4bc042d909a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#formEditInvitation > div.modal-content > div.modal-body > div > div > div.form-group.row > div.col-sm-12 > #wa</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//input[@id='wa'])[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=textbox[name=&quot;WA Number&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>4a0e2c32-c5e3-4626-bafb-3a88ee80b707</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>959edcc8-3cb2-4085-9cb7-18eacf23ec70</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>oninput</name>
+      <type>Main</type>
+      <value>this.value = this.value.replace(/[^0-9.]/g, '').replace(/(\..*?)\..*/g, '$1');</value>
+      <webElementGuid>64b01b8e-7f59-4586-8ec7-73240726720b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-control form-control</value>
+      <webElementGuid>54674532-ad98-4afb-8f77-50e669d64ffc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>wa</value>
+      <webElementGuid>4a152cd3-c6d1-4947-8650-80223d78fa9e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>wa</value>
+      <webElementGuid>dcec84e0-a9d4-47e7-abca-32718cc29e3b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>WA Number</value>
+      <webElementGuid>cc634822-e60a-433b-b8c6-29ce4ace17e8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;formEditInvitation&quot;)/div[@class=&quot;modal-content&quot;]/div[@class=&quot;modal-body&quot;]/div[1]/div[1]/div[@class=&quot;form-group row&quot;]/div[@class=&quot;col-sm-12&quot;]/input[@id=&quot;wa&quot;]</value>
+      <webElementGuid>bb11ec07-8349-4ab0-8cdf-c8349fe8abb8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//input[@id='wa'])[2]</value>
+      <webElementGuid>25ea481d-29e5-43ed-ad50-bee7a70afa26</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='formEditInvitation']/div/div[2]/div/div/div[5]/div/input</value>
+      <webElementGuid>97c96343-9928-4ec2-ae0f-c6c9da4939eb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/form/div/div[2]/div/div/div[5]/div/input</value>
+      <webElementGuid>b490b494-4d6c-4e9c-91f6-4f4123af29dd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'text' and @name = 'wa' and @id = 'wa' and @placeholder = 'WA Number']</value>
+      <webElementGuid>8efcdcf9-69a9-447e-950a-4f095b827963</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

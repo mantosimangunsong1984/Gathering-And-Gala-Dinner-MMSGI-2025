@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Add Location - Setting Check Point</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>b5c48005-6bb7-48ab-837a-3252bad3e6a4</testCaseGuid>
+</TestCaseEntity>

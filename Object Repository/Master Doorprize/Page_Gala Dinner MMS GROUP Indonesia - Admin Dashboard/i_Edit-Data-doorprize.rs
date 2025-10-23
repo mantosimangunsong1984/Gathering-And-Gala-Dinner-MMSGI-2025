@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_Edit-Data-doorprize</name>
+   <tag></tag>
+   <elementGuidId>79050e13-6034-4e3c-9472-9a580eb20e3b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>i.fa.fa-edit</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='btn_edit']/i</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=row[name=&quot;1 AA1 1 JAMESON BLACK BARREL 8614726743 guest-10-5 Company Bus 10 Active Standard  &quot;i] >> internal:attr=[title=&quot;Edit&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>af568b5d-672e-4085-8548-03918f9c284c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fa fa-edit</value>
+      <webElementGuid>452228aa-af6d-4636-971c-a0d7224337e5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;table_doorprize&quot;)/tbody[1]/tr[@class=&quot;odd&quot;]/td[@class=&quot;dt-center&quot;]/button[@id=&quot;btn_edit&quot;]/i[@class=&quot;fa fa-edit&quot;]</value>
+      <webElementGuid>5470d914-b5af-4110-9ba4-98dedd0a28a2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//button[@id='btn_edit']/i</value>
+      <webElementGuid>11387f27-8bcb-4c92-b07d-e48abda534e2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[10]/button/i</value>
+      <webElementGuid>f35c81d3-7b2c-41bf-b3b0-0740404c8597</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

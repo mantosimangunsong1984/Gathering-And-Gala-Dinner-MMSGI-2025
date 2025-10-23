@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_Form Edit Invitation_type_user</name>
+   <tag></tag>
+   <elementGuidId>d4eff818-c5c4-4bd5-aaba-1e9df78e563e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#formEditInvitation > div.modal-content > div.modal-body > div > div > div.form-group.row > div.col-sm-12 > #type_user</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//select[@id='type_user'])[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>#formEditInvitation #type_user</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>40b63184-0daf-4162-96d6-f7deb67f05aa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>type_user</value>
+      <webElementGuid>96b2dfff-7fea-4728-9f7e-082b973b8aeb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-control form-control</value>
+      <webElementGuid>70c1c53c-95f5-41ce-bd0a-5360d9d1a8c0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>type_user</value>
+      <webElementGuid>ab6cfd20-cc82-41f8-bb0c-727a29ecab25</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                                                                                                    VVIP
+                                                                                                    VIP
+                                                                                                    Internal
+                                                                                                    Regular
+                                                                                                    Panitia
+                                                                                                </value>
+      <webElementGuid>0d2bf297-ef65-4569-82c6-c5a6a2117edf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;formEditInvitation&quot;)/div[@class=&quot;modal-content&quot;]/div[@class=&quot;modal-body&quot;]/div[1]/div[1]/div[@class=&quot;form-group row&quot;]/div[@class=&quot;col-sm-12&quot;]/select[@id=&quot;type_user&quot;]</value>
+      <webElementGuid>6659959b-3316-4b1a-8cdc-69a5984868e4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//select[@id='type_user'])[2]</value>
+      <webElementGuid>da8b2184-f030-4b66-9560-a3f0e633d3f1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='formEditInvitation']/div/div[2]/div/div/div[8]/div/select</value>
+      <webElementGuid>469f8734-09e3-4d7b-a592-0a45bb4af24c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Form Edit Invitation'])[1]/following::select[2]</value>
+      <webElementGuid>9cbf0900-192f-47b6-a143-60c1a53b174f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Save'])[1]/following::select[2]</value>
+      <webElementGuid>1972dc0d-10d1-4342-b255-60ca3e332e8d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Save'])[2]/preceding::select[2]</value>
+      <webElementGuid>55b93a8a-fcfd-46fb-bef6-1f5a0b91e448</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Copyright © galadinner.mmsgroup.co.id 2023'])[1]/preceding::select[2]</value>
+      <webElementGuid>94a0b13e-7173-4fc5-a8cb-201293c7771f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/form/div/div[2]/div/div/div[8]/div/select</value>
+      <webElementGuid>2fe14bcf-61dc-46e1-a2ad-ea6f2e14cefa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@id = 'type_user' and @name = 'type_user' and (text() = '
+                                                                                                    VVIP
+                                                                                                    VIP
+                                                                                                    Internal
+                                                                                                    Regular
+                                                                                                    Panitia
+                                                                                                ' or . = '
+                                                                                                    VVIP
+                                                                                                    VIP
+                                                                                                    Internal
+                                                                                                    Regular
+                                                                                                    Panitia
+                                                                                                ')]</value>
+      <webElementGuid>8ce37426-5daf-4d27-b9b1-569db3905e45</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

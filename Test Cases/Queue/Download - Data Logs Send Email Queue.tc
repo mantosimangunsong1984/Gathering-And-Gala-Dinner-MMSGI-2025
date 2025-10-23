@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Download - Data Logs Send Email Queue</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>828fc56d-d691-4419-9bee-02134f1daa75</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_Refresh</name>
+   <tag></tag>
+   <elementGuidId>4532d23b-3b14-4554-8ade-2868e11d7701</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>i.fas.fa-sync</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//table[@id='dtEmailQueueData']/thead/tr/th[4]/button/i</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=row[name=&quot;Email: activate to sort column ascending Name: activate to sort column ascending Body: activate to sort column ascending : activate to sort column ascending&quot;i] >> internal:role=button</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>93db50ac-954c-419a-adbc-dc73799c1f89</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fas fa-sync</value>
+      <webElementGuid>34644d94-d6f4-4b14-9376-daad692ab440</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;dtEmailQueueData&quot;)/thead[1]/tr[1]/th[@class=&quot;dt-center sorting&quot;]/button[@class=&quot;btn btn-success btn-sm refreshDataTable&quot;]/i[@class=&quot;fas fa-sync&quot;]</value>
+      <webElementGuid>17f027bc-2df4-45a1-b2e4-4b57653d9cae</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='dtEmailQueueData']/thead/tr/th[4]/button/i</value>
+      <webElementGuid>6d28bb28-d36a-4419-bea9-099a07d4553f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//th[4]/button/i</value>
+      <webElementGuid>d484ccbe-9ba6-4c81-a3cf-4e91a7dba985</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_Send_Email</name>
+   <tag></tag>
+   <elementGuidId>7c104c33-2838-4561-b36f-0742318cc102</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>i.fas.fa-paper-plane</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='sendEmail']/i</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=row[name=&quot;6acfe4dd1e Link 2702558342 guest-8-4 guest8_4@example.com +6289557242838 Company Bus 8 Internal G Available   &quot;i] >> #sendEmail</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>1c25dcad-31d9-4b97-b187-c57fd37bdb13</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fas fa-paper-plane</value>
+      <webElementGuid>4de87c89-3270-4d87-af4a-32c77d2fcc8e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;dtInvitationData&quot;)/tbody[1]/tr[@class=&quot;odd&quot;]/td[12]/button[@id=&quot;sendEmail&quot;]/i[@class=&quot;fas fa-paper-plane&quot;]</value>
+      <webElementGuid>b62e53b5-51a6-4130-8d83-9f86505864c4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//button[@id='sendEmail']/i</value>
+      <webElementGuid>17f29613-e91f-4421-801e-390c1c3eb7b7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[12]/button/i</value>
+      <webElementGuid>85090bb1-7add-4645-a4bc-f3e949b58fdc</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

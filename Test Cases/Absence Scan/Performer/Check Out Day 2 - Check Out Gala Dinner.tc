@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Check Out Day 2 - Check Out Gala Dinner</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>d481bce5-cbe9-4ae2-8c79-52899e0fe55d</testCaseGuid>
+</TestCaseEntity>

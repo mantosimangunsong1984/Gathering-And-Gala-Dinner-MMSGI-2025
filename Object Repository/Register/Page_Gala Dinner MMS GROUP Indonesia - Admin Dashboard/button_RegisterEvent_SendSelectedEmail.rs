@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_RegisterEvent_SendSelectedEmail</name>
+   <tag></tag>
+   <elementGuidId>61227410-88e4-42f7-b7ec-1e89529df887</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#reSendSelectedEmail</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='reSendSelectedEmail']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot; Send Email Selected&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>ab1cf708-fa79-49e8-951f-395fa7658c20</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>reSendSelectedEmail</value>
+      <webElementGuid>47644cd5-ae42-49b0-9bc0-72cff870093a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-sm btn-info</value>
+      <webElementGuid>f709a060-b40f-49fe-b5b8-f1eae04efd74</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                          Send Email Selected</value>
+      <webElementGuid>b76e9f02-e1e6-42fa-b0da-37dc62406ae3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;reSendSelectedEmail&quot;)</value>
+      <webElementGuid>86f94455-aa0a-4955-901a-dc3eb1bd85c5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@id='reSendSelectedEmail']</value>
+      <webElementGuid>c13ca994-37f2-4fa5-a2c7-6b51d4dcc29e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='content']/div/button</value>
+      <webElementGuid>223853c5-9fa1-424b-bc56-bf4b503ba81a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Register Event'])[1]/following::button[1]</value>
+      <webElementGuid>094f9c6c-ddf9-463e-9f89-2514fcb25a2e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Send Email Selected']/parent::*</value>
+      <webElementGuid>21d64a1f-7d6b-4c50-bab2-0ef86f5e51b2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/button</value>
+      <webElementGuid>370b5da5-884b-4173-ac82-f61f9d4626cd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@id = 'reSendSelectedEmail' and (text() = '
+                          Send Email Selected' or . = '
+                          Send Email Selected')]</value>
+      <webElementGuid>2f68b7dc-a018-4821-a595-ece2203c8f05</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_sendSelectedWhatsapp</name>
+   <tag></tag>
+   <elementGuidId>19afa490-d80a-4f12-b425-4ecf2ae0b070</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#sendSelectedWhatsapp</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='sendSelectedWhatsapp']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot; Send Whatsapp Selected&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>45a0cd32-f09d-41e2-b107-8bb73e198e25</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>sendSelectedWhatsapp</value>
+      <webElementGuid>0aa7d455-e9ec-4d64-a5fe-64e1fd47673e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-sm btn-success</value>
+      <webElementGuid>7c8ae5cd-53f3-4b04-84e3-1acda7533978</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                          Send Whatsapp Selected</value>
+      <webElementGuid>0e1b7358-a49c-4c61-ac93-2d345a5528a7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;sendSelectedWhatsapp&quot;)</value>
+      <webElementGuid>fa954767-d1ea-4ca6-b946-01dc8ca26261</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@id='sendSelectedWhatsapp']</value>
+      <webElementGuid>f7415e7a-98c2-4a8d-9e40-7e260b546d40</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='content']/div/button[2]</value>
+      <webElementGuid>2e213a25-2d12-4c32-b58f-7b4c2a365f2f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Register Event'])[1]/following::button[2]</value>
+      <webElementGuid>e7f8fbf7-4752-4078-a9b4-a943b7a5a80e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Data Register Event'])[1]/preceding::button[2]</value>
+      <webElementGuid>b153fa77-4e6a-4769-abf3-ec5c11137202</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Send Whatsapp Selected']/parent::*</value>
+      <webElementGuid>1c86fdea-775a-47a7-b9e8-adfb1a671316</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button[2]</value>
+      <webElementGuid>569760c3-756c-47fa-b946-b7c0dc0d8c13</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@id = 'sendSelectedWhatsapp' and (text() = '
+                          Send Whatsapp Selected' or . = '
+                          Send Whatsapp Selected')]</value>
+      <webElementGuid>24dc0e0f-d7a5-4bb4-b18a-dd23486cd5ad</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

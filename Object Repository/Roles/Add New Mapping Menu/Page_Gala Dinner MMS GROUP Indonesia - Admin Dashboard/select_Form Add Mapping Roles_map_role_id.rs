@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_Form Add Mapping Roles_map_role_id</name>
+   <tag></tag>
+   <elementGuidId>c97ba77c-c037-48aa-a532-199b1273a255</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#map_role_id</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='map_role_id']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>#map_role_id</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>7dd28fa6-ba29-46c4-b929-a08f0c1c603d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>map_role_id</value>
+      <webElementGuid>0c1da3ee-3ed8-4ce3-a572-271e315b9c31</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-control form-control</value>
+      <webElementGuid>636a4f8e-8b00-4988-9ee7-4be798f10bef</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>map_role_id</value>
+      <webElementGuid>39a43142-70b1-4c22-9557-f16cffe0ee5c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                                                                                                    superadmin
+                                                                                                    admin
+                                                                                                    PIC Guest
+                                                                                                    Team Register
+                                                                                                    Reporting
+                                                                                                    LO
+                                                                                                </value>
+      <webElementGuid>3232022f-bfbf-4710-977e-03f16ee4c3d3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;map_role_id&quot;)</value>
+      <webElementGuid>fe591450-c5d8-4db2-b926-1507a32c7be0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='map_role_id']</value>
+      <webElementGuid>264c659c-9e75-4590-9db4-70f9fc68e0fe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='formAddNewMap']/div/div[2]/div/div/div/div/select</value>
+      <webElementGuid>6505b52d-7474-4d5e-9c52-2c9dba268d82</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Form Add Mapping Roles'])[1]/following::select[1]</value>
+      <webElementGuid>2298a6cd-bff7-4dac-94b2-bf2c99beb2c7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Save'])[2]/following::select[1]</value>
+      <webElementGuid>13b18c96-3823-4504-9ef0-d7a15874698d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Save'])[3]/preceding::select[2]</value>
+      <webElementGuid>cb61ebfe-480c-4a9f-9471-ce9cf305e2b4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Form Edit Mapping Roles'])[1]/preceding::select[2]</value>
+      <webElementGuid>45af0350-cd7c-4e70-9f71-9875d920c8b1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/form/div/div[2]/div/div/div/div/select</value>
+      <webElementGuid>d67c6f3e-186c-4762-aa2d-5903a8b40f4c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@id = 'map_role_id' and @name = 'map_role_id' and (text() = '
+                                                                                                    superadmin
+                                                                                                    admin
+                                                                                                    PIC Guest
+                                                                                                    Team Register
+                                                                                                    Reporting
+                                                                                                    LO
+                                                                                                ' or . = '
+                                                                                                    superadmin
+                                                                                                    admin
+                                                                                                    PIC Guest
+                                                                                                    Team Register
+                                                                                                    Reporting
+                                                                                                    LO
+                                                                                                ')]</value>
+      <webElementGuid>94e3503d-56f4-4b4e-8276-aac89e46beb4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

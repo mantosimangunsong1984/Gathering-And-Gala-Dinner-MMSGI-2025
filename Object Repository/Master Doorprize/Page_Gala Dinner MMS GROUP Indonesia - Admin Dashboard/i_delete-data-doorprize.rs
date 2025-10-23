@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_delete-data-doorprize</name>
+   <tag></tag>
+   <elementGuidId>95ad8960-52cc-4025-90de-3f592d9ffa33</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>i.fa.fa-trash</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='btn_delete']/i</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=row[name=&quot;1 AA1 1 JAMESON BLACK BARREL 8614726743 guest-10-5 Company Bus 10 Active Standard  &quot;i] >> #btn_delete</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>3ccc499c-edf7-4a28-9dfd-8ead0eea7a98</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fa fa-trash</value>
+      <webElementGuid>a56526c1-0c01-4452-81b4-6048b514aeff</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;table_doorprize&quot;)/tbody[1]/tr[@class=&quot;odd&quot;]/td[@class=&quot;dt-center&quot;]/button[@id=&quot;btn_delete&quot;]/i[@class=&quot;fa fa-trash&quot;]</value>
+      <webElementGuid>b897ed51-fc45-4228-bdc0-ada12950ca6d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//button[@id='btn_delete']/i</value>
+      <webElementGuid>cc0c0db2-0d5a-4d85-9c6a-698cf74d5be7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button[2]/i</value>
+      <webElementGuid>0e605547-925e-4342-9c38-16de01497719</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
