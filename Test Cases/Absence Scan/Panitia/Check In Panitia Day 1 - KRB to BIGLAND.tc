@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>Check In Day 2 - Ballroom Bigland</name>
+   <name>Check In Panitia Day 1 - KRB to BIGLAND</name>
    <tag></tag>
    <comment></comment>
    <recordOption>OTHER</recordOption>
-   <testCaseGuid>d3a3a1eb-b49a-4408-b1b7-6685e93f89f5</testCaseGuid>
+   <testCaseGuid>492c89d5-af7c-4b82-8d52-5c0caf85a305</testCaseGuid>
 </TestCaseEntity>
