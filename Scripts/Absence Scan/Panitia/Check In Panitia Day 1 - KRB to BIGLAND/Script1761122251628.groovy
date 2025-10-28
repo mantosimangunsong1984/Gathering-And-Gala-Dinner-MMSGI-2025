@@ -24,9 +24,9 @@ WebUI.click(findTestObject('Absence Scan/Page_Gala Dinner MMS GROUP Indonesia - 
 WebUI.selectOptionByLabel(findTestObject('Absence Scan/Page_Gala Dinner Event/select_Location'), 'Day 1 - KRB to Bigland', 
     false)
 
-WebUI.selectOptionByLabel(findTestObject('Absence Scan/Page_Gala Dinner Event/select_Bus-Number'), 'H', false)
+WebUI.selectOptionByLabel(findTestObject('Absence Scan/Page_Gala Dinner Event/select_Bus-Number'), 'A', false)
 
-WebUI.delay(10)
+WebUI.delay(15)
 
 WebUI.takeFullPageScreenshot()
 

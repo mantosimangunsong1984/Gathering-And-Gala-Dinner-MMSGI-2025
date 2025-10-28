@@ -22,9 +22,10 @@ WebUI.callTestCase(findTestCase('Login/Login'), [:], FailureHandling.STOP_ON_FAI
 WebUI.click(findTestObject('Register/Page_Gala Dinner MMS GROUP Indonesia - Admin Dashboard/span_Register'))
 
 WebUI.setText(findTestObject('Register/Page_Gala Dinner MMS GROUP Indonesia - Admin Dashboard/input_Search_register-event'), 
-    'manto.manto@mmsgroup.co.id')
+    '90943848733')
 
-WebUI.click(findTestObject('Register/Page_Gala Dinner MMS GROUP Indonesia - Admin Dashboard/a_viewBarcode_Manto'), FailureHandling.STOP_ON_FAILURE)
+WebUI.click(findTestObject('Register/Page_Gala Dinner MMS GROUP Indonesia - Admin Dashboard/a_Confirm_viewBarcode_10203073'), 
+    FailureHandling.STOP_ON_FAILURE)
 
 WebUI.delay(3)
 

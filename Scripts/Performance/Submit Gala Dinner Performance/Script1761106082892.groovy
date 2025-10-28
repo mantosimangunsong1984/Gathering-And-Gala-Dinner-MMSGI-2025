@@ -19,7 +19,7 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.callTestCase(findTestCase('Login/Login'), [:], FailureHandling.STOP_ON_FAILURE)
 
-WebUI.click(findTestObject('Performance/Page_Gala Dinner MMS GROUP Indonesia - Admin Dashboard/span_Performance'))
+WebUI.click(findTestObject('Performance/Page_Gala Dinner MMS GROUP Indonesia - Admin Dashboard/a_Setting_Performance-NEW'))
 
 WebUI.click(findTestObject('Performance/Page_Gala Dinner Performance Evaluation/span_10_Kreativitas'))
 

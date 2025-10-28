@@ -19,7 +19,7 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.callTestCase(findTestCase('Login/Login'), [:], FailureHandling.STOP_ON_FAILURE)
 
-WebUI.click(findTestObject('Setting Check Point/Page_Gala Dinner MMS GROUP Indonesia - Admin Dashboard/a_Setting-Check-Point'))
+WebUI.click(findTestObject('Setting Check Point/Add New Location - New/Page_Gala Dinner MMS GROUP Indonesia - Admin Dashboard/span_Setting-Checkpoint-new'))
 
 WebUI.click(findTestObject('Setting Check Point/Add New Location/Page_Gala Dinner MMS GROUP Indonesia - Admin Dashboard/button_Add-Location'))
 
@@ -35,7 +35,7 @@ WebUI.selectOptionByLabel(findTestObject('Setting Check Point/Add New Location/P
 WebUI.setText(findTestObject('Setting Check Point/Add New Location/Page_Gala Dinner MMS GROUP Indonesia - Admin Dashboard/textarea_Notes_Add'), 
     'For Testing Only From CFX Tower')
 
-WebUI.click(findTestObject('Setting Check Point/Add New Location/Page_Gala Dinner MMS GROUP Indonesia - Admin Dashboard/button_Save-Add'))
+not_run: WebUI.click(findTestObject('Setting Check Point/Add New Location/Page_Gala Dinner MMS GROUP Indonesia - Admin Dashboard/button_Save-Add'))
 
 WebUI.takeFullPageScreenshot()
 

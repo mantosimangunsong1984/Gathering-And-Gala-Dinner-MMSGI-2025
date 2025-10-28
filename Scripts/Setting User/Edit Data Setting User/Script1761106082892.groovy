@@ -22,12 +22,12 @@ WebUI.callTestCase(findTestCase('Login/Login'), [:], FailureHandling.STOP_ON_FAI
 WebUI.click(findTestObject('Setting User/Page_Gala Dinner MMS GROUP Indonesia - Admin Dashboard/span_Setting-User'))
 
 WebUI.setText(findTestObject('Setting User/Page_Gala Dinner MMS GROUP Indonesia - Admin Dashboard/input_Search_Setting-User'), 
-    'Gabriella')
+    'James')
 
 WebUI.click(findTestObject('Setting User/Edit User/Page_Gala Dinner MMS GROUP Indonesia - Admin Dashboard/i_Edit'), FailureHandling.STOP_ON_FAILURE)
 
 WebUI.setText(findTestObject('Setting User/Edit User/Page_Gala Dinner MMS GROUP Indonesia - Admin Dashboard/input_name-Edit'), 
-    'Mrs Gabriella')
+    'James Doe')
 
 WebUI.click(findTestObject('Setting User/Edit User/Page_Gala Dinner MMS GROUP Indonesia - Admin Dashboard/button_Save-EditUSer'), 
     FailureHandling.STOP_ON_FAILURE)

@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>button_Update-Configuration</name>
+   <name>select_Status_New</name>
    <tag></tag>
-   <elementGuidId>2b6d73ee-bde0-4f25-9b79-16fc57fc19c9</elementGuidId>
+   <elementGuidId>478019c9-9fc8-43e5-aaaa-bcb618056680</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value>#updateConfig</value>
+         <value>#status</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//button[@id='updateConfig']</value>
+         <value>//select[@id='status']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
-         <value>internal:role=button[name=&quot; Update Config&quot;i]</value>
+         <value>#formAdd #status</value>
       </entry>
    </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
@@ -28,32 +28,32 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>button</value>
-      <webElementGuid>b270a584-6ee8-41c5-b956-c97c5a1d4093</webElementGuid>
+      <value>select</value>
+      <webElementGuid>ff1840c9-2a3d-4a28-90af-cfc178f44fb2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>id</name>
       <type>Main</type>
-      <value>updateConfig</value>
-      <webElementGuid>14350c14-4d49-40b2-9c65-318e183a79b9</webElementGuid>
+      <value>status</value>
+      <webElementGuid>56307dc7-d6ee-4814-aca0-cd16b44d2362</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>btn btn-sm btn-success</value>
-      <webElementGuid>4692a30e-8528-45f6-a23f-a996725b2de9</webElementGuid>
+      <value>form-control form-control</value>
+      <webElementGuid>736eba5b-3c88-4f6e-9eb0-68f44338371a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>false</isSelected>
+      <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>onclick</name>
+      <name>name</name>
       <type>Main</type>
-      <value>updateConfig()</value>
-      <webElementGuid>997e9a37-0ef3-4ff8-a951-c03ece0dc35c</webElementGuid>
+      <value>status</value>
+      <webElementGuid>6675b86f-d79b-400d-ad89-c6bbc94287ef</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -61,92 +61,87 @@
       <name>text</name>
       <type>Main</type>
       <value>
-                                 Update Config
-                            </value>
-      <webElementGuid>dbb5ceca-15b2-4200-96f9-7f6b8748c8f6</webElementGuid>
+                                                   Active
+                                                    Inactive
+                                                </value>
+      <webElementGuid>de5cf118-e961-483f-8c5c-8651f7f64ba4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;updateConfig&quot;)</value>
-      <webElementGuid>8b4db528-cfda-44cf-a3e3-35b87dbcc451</webElementGuid>
+      <value>id(&quot;formAdd&quot;)/div[@class=&quot;modal-content&quot;]/div[@class=&quot;modal-body&quot;]/div[1]/div[1]/div[@class=&quot;form-group row&quot;]/div[@class=&quot;col-sm-6&quot;]/select[@id=&quot;status&quot;]</value>
+      <webElementGuid>c75099ef-a1e9-4701-b41f-e24403581361</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//button[@id='updateConfig']</value>
-      <webElementGuid>b5c10daa-57e8-4f48-b7d4-00b606a41d45</webElementGuid>
+      <value>//select[@id='status']</value>
+      <webElementGuid>1964ab1a-9114-46ba-af7e-1e2e9784983c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='content']/div/div/div/button</value>
-      <webElementGuid>edae1205-4428-4054-a1ba-35e4745deb8a</webElementGuid>
+      <value>//form[@id='formAdd']/div/div[2]/div/div/div[2]/div[2]/select</value>
+      <webElementGuid>071858fc-3f04-41de-ba4f-9e3079d2c1ee</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Configuration'])[2]/following::button[1]</value>
-      <webElementGuid>3a7d119e-7d04-4e80-8a40-de72974e8b41</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Status'])[2]/following::select[1]</value>
+      <webElementGuid>2b6b9e71-890e-43d9-855b-356419a76400</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Configuration'])[1]/following::button[1]</value>
-      <webElementGuid>0dced0bf-56bd-4d57-8a67-107ca867e340</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='is Bus'])[1]/following::select[2]</value>
+      <webElementGuid>6e28eadb-8b2e-432b-8c37-7ad58480880b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Loading...'])[1]/preceding::button[1]</value>
-      <webElementGuid>dc9d210c-1492-44ce-b61f-e6a2bd240644</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Notes'])[2]/preceding::select[1]</value>
+      <webElementGuid>5474a826-b409-4326-9114-ec1e5e3ecbf7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='interval_countdown'])[1]/preceding::button[1]</value>
-      <webElementGuid>85ef32ef-b66e-46f5-9ce0-7fb1e2ea1427</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>//*/text()[normalize-space(.)='Update Config']/parent::*</value>
-      <webElementGuid>a68d614d-13f1-4a95-81c8-a64cf6531d45</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Save'])[1]/preceding::select[1]</value>
+      <webElementGuid>f899b1f6-c038-4e7e-b505-7e77b5bd1fc2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div/div/button</value>
-      <webElementGuid>e58a1ed8-7b50-4566-91b9-59b682a60e0e</webElementGuid>
+      <value>//div[2]/select</value>
+      <webElementGuid>c7455d52-2e71-49e7-8ee4-cd20a0dac291</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//button[@id = 'updateConfig' and (text() = '
-                                 Update Config
-                            ' or . = '
-                                 Update Config
-                            ')]</value>
-      <webElementGuid>6afa2d3a-fdf1-4c55-977b-74d1cbdd143b</webElementGuid>
+      <value>//select[@id = 'status' and @name = 'status' and (text() = '
+                                                   Active
+                                                    Inactive
+                                                ' or . = '
+                                                   Active
+                                                    Inactive
+                                                ')]</value>
+      <webElementGuid>3b134956-92a1-413b-9fe9-abb54ad3d7da</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

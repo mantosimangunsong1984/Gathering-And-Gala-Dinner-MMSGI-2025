@@ -19,18 +19,18 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.callTestCase(findTestCase('Login/Login'), [:], FailureHandling.STOP_ON_FAILURE)
 
-WebUI.click(findTestObject('Configuration Setting/Page_Gala Dinner MMS GROUP Indonesia - Admin Dashboard/span_Configuration-Setting'))
+WebUI.click(findTestObject('null'))
 
-WebUI.setText(findTestObject('Configuration Setting/Page_Gala Dinner MMS GROUP Indonesia - Admin Dashboard/input_interval_countdown_1'), 
+WebUI.setText(findTestObject('null'), 
     '3000')
 
-WebUI.setText(findTestObject('Configuration Setting/Page_Gala Dinner MMS GROUP Indonesia - Admin Dashboard/input_interval_countdown_3'), 
+WebUI.setText(findTestObject('null'), 
     '3000')
 
-WebUI.setText(findTestObject('Configuration Setting/Page_Gala Dinner MMS GROUP Indonesia - Admin Dashboard/input_interval_countdown_10'), 
+WebUI.setText(findTestObject('null'), 
     '3000')
 
-WebUI.click(findTestObject('Configuration Setting/Page_Gala Dinner MMS GROUP Indonesia - Admin Dashboard/button_Configuration_updateConfig'), 
+WebUI.click(findTestObject('null'), 
     FailureHandling.STOP_ON_FAILURE)
 
 WebUI.takeFullPageScreenshot()

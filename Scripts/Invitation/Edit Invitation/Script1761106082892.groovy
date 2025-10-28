@@ -22,19 +22,19 @@ WebUI.callTestCase(findTestCase('Login/Login'), [:], FailureHandling.STOP_ON_FAI
 WebUI.click(findTestObject('Invitation/Page_Gala Dinner MMS GROUP Indonesia - Admin Dashboard/span_Invitattion'))
 
 WebUI.setText(findTestObject('Invitation/Page_Gala Dinner MMS GROUP Indonesia - Admin Dashboard/input_Search_Invitation'), 
-    'manto')
+    '7659559179')
 
 WebUI.click(findTestObject('Invitation/Edit Invitation/Page_Gala Dinner MMS GROUP Indonesia - Admin Dashboard/button_Edit-Data-Invitation'), 
     FailureHandling.STOP_ON_FAILURE)
 
 WebUI.setText(findTestObject('Invitation/Edit Invitation/Page_Gala Dinner MMS GROUP Indonesia - Admin Dashboard/input_Form Edit Invitation_nik'), 
-    '98989898XXXX')
+    '98989898XXXXYYY')
 
 WebUI.setText(findTestObject('Invitation/Edit Invitation/Page_Gala Dinner MMS GROUP Indonesia - Admin Dashboard/input_Form Edit Invitation_company_name'), 
-    'PT. TEKNIK MAJU JAYA')
+    'PT. TEKNIK MAJU JAYA JAYA JAYA')
 
 WebUI.setText(findTestObject('Invitation/Edit Invitation/Page_Gala Dinner MMS GROUP Indonesia - Admin Dashboard/input_Form Edit Invitation_bus_no'), 
-    'E')
+    'M')
 
 WebUI.click(findTestObject('Invitation/Edit Invitation/Page_Gala Dinner MMS GROUP Indonesia - Admin Dashboard/button_Save_Edit-Invitation'))
 

@@ -19,7 +19,7 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.callTestCase(findTestCase('Login/Login'), [:], FailureHandling.STOP_ON_FAILURE)
 
-WebUI.click(findTestObject('Configuration Setting/Page_Gala Dinner MMS GROUP Indonesia - Admin Dashboard/span_Configuration-Setting'))
+WebUI.click(findTestObject('null'))
 
 WebUI.takeFullPageScreenshot()
 

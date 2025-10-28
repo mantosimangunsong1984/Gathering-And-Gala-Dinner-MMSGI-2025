@@ -25,9 +25,9 @@ WebUI.selectOptionByLabel(findTestObject('Absence Scan/Page_Gala Dinner Event/se
 
 WebUI.delay(3)
 
-WebUI.selectOptionByLabel(findTestObject('Absence Scan/Page_Gala Dinner Event/select_Bus-Number'), 'H', false)
+WebUI.selectOptionByLabel(findTestObject('Absence Scan/Page_Gala Dinner Event/select_Bus-Number'), 'A', false)
 
-WebUI.delay(10)
+WebUI.delay(15)
 
 WebUI.takeFullPageScreenshot()
 

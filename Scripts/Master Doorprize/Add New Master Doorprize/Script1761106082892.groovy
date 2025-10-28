@@ -25,10 +25,10 @@ WebUI.click(findTestObject('Master Doorprize/Add New Doorprize/Page_Gala Dinner 
     FailureHandling.STOP_ON_FAILURE)
 
 WebUI.setText(findTestObject('Master Doorprize/Add New Doorprize/Page_Gala Dinner MMS GROUP Indonesia - Admin Dashboard/input_Code'), 
-    'MMS1')
+    'MMS20')
 
 WebUI.setText(findTestObject('Master Doorprize/Add New Doorprize/Page_Gala Dinner MMS GROUP Indonesia - Admin Dashboard/input_Doorprize_name'), 
-    'Mac Book Pro')
+    'Iphone 20')
 
 WebUI.setText(findTestObject('Master Doorprize/Add New Doorprize/Page_Gala Dinner MMS GROUP Indonesia - Admin Dashboard/input_GroupDoorPrize'), 
     '1')

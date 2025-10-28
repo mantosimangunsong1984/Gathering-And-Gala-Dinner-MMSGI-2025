@@ -25,13 +25,13 @@ WebUI.click(findTestObject('Invitation/Add New Invitation/Page_Gala Dinner MMS G
     FailureHandling.STOP_ON_FAILURE)
 
 WebUI.setText(findTestObject('Invitation/Add New Invitation/Page_Gala Dinner MMS GROUP Indonesia - Admin Dashboard/input_NIK'), 
-    '11223344556677889900')
+    '556677889900')
 
 WebUI.setText(findTestObject('Invitation/Add New Invitation/Page_Gala Dinner MMS GROUP Indonesia - Admin Dashboard/input_Full-Name'), 
-    'John Mayer')
+    'Simone Blunt')
 
 WebUI.setText(findTestObject('Invitation/Add New Invitation/Page_Gala Dinner MMS GROUP Indonesia - Admin Dashboard/input_email-address'), 
-    'simangunsong.manto17584@gmail.com')
+    'simangunsong.manto17mei84@gmail.com')
 
 WebUI.selectOptionByLabel(findTestObject('Invitation/Add New Invitation/Page_Gala Dinner MMS GROUP Indonesia - Admin Dashboard/select_country_code'), 
     '(+62) Indonesia', false)
@@ -43,7 +43,7 @@ WebUI.setText(findTestObject('Invitation/Add New Invitation/Page_Gala Dinner MMS
     'PT. MAJU MUNDUR SEJAHTERA')
 
 WebUI.setText(findTestObject('Invitation/Add New Invitation/Page_Gala Dinner MMS GROUP Indonesia - Admin Dashboard/input_Bus-No'), 
-    'H')
+    'M')
 
 WebUI.selectOptionByLabel(findTestObject('Invitation/Add New Invitation/Page_Gala Dinner MMS GROUP Indonesia - Admin Dashboard/select_type_user'), 
     'Internal', false)
@@ -59,4 +59,6 @@ WebUI.click(findTestObject('Invitation/Add New Invitation/Page_Gala Dinner MMS G
 WebUI.delay(3)
 
 WebUI.takeFullPageScreenshot()
+
+WebUI.closeBrowser()
 

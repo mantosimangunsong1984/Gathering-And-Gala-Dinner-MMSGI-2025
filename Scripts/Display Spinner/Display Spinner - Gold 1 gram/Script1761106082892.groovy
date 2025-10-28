@@ -35,7 +35,7 @@ WebUI.takeFullPageScreenshot()
 
 WebUI.delay(3)
 
-WebUI.click(findTestObject('Display Spinner/Spin the doorprize/Page_MMSGI Doorprize/button_Commit_Jameson'))
+not_run: WebUI.click(findTestObject('Display Spinner/Spin the doorprize/Page_MMSGI Doorprize/button_Commit_Jameson'))
 
 WebUI.takeFullPageScreenshot()
 

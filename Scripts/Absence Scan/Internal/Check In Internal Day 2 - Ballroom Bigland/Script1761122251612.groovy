@@ -21,11 +21,12 @@ WebUI.callTestCase(findTestCase('Login/Login'), [:], FailureHandling.STOP_ON_FAI
 
 WebUI.click(findTestObject('Absence Scan/Page_Gala Dinner MMS GROUP Indonesia - Admin Dashboard/span_Absence-Scan'))
 
-WebUI.selectOptionByLabel(findTestObject('Absence Scan/Page_Gala Dinner Event/select_Location'), 'Ballroom Bigland', false)
+WebUI.selectOptionByLabel(findTestObject('Absence Scan/Page_Gala Dinner Event/select_Location'), 'Day 2 - Ballroom Bigland', 
+    false)
 
 WebUI.selectOptionByLabel(findTestObject('Absence Scan/Page_Gala Dinner Event/select_Bus-Number'), 'H', false)
 
-WebUI.delay(10)
+WebUI.delay(15)
 
 WebUI.takeFullPageScreenshot()
 

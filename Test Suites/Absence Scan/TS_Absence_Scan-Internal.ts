@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestSuiteEntity>
    <description></description>
-   <name>TS_Setting-User</name>
+   <name>TS_Absence_Scan-Internal</name>
    <tag></tag>
    <isRerun>false</isRerun>
    <mailRecipient></mailRecipient>
@@ -10,33 +10,40 @@
    <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
    <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
    <rerunImmediately>true</rerunImmediately>
-   <testSuiteGuid>02ab2389-b4cb-4af2-b5e2-5b3a9f32e99f</testSuiteGuid>
+   <testSuiteGuid>f221a58d-1a62-4286-a2dd-3b8e664b2c24</testSuiteGuid>
    <testCaseLink>
-      <guid>8e338794-db53-4392-86b6-dc3b673da53a</guid>
+      <guid>3a3b4df3-14e5-425f-b473-031b2e293932</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Setting User/Add New - Setting User</testCaseId>
+      <testCaseId>Test Cases/Absence Scan/Internal/Check In Internal Day 1 - CFX to KRB</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>2fd7ff49-2de0-4960-aaf8-e18d42eaa3ce</guid>
+      <guid>86450036-e73c-4d82-9636-d81548d27152</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Setting User/Edit Data Setting User</testCaseId>
+      <testCaseId>Test Cases/Absence Scan/Internal/Check In Internal Day 1 - KRB to BIGLAND</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>43f0dd7a-e7b8-43b2-aadc-ef4ac7054811</guid>
+      <guid>bcd2ac0f-c47b-4db8-86aa-4db89132e897</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Setting User/Search Setting User</testCaseId>
+      <testCaseId>Test Cases/Absence Scan/Internal/Check In Internal Day 2 - Ballroom Bigland</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>7a759bb1-9a66-476f-926e-aa91779c47f1</guid>
+      <guid>17b2e639-fb7d-426e-9829-08491b7cd148</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Setting User/View Page Setting User</testCaseId>
+      <testCaseId>Test Cases/Absence Scan/Internal/Check In Internal Day 2 - Check In Gala Dinner</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>d5328a22-9412-4bdf-b8b3-5d8e4642f012</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Absence Scan/Internal/Check Out Internal Day 2 - Check Out Gala Dinner</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
 </TestSuiteEntity>

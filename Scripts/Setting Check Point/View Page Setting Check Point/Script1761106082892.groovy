@@ -19,7 +19,7 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.callTestCase(findTestCase('Login/Login'), [:], FailureHandling.STOP_ON_FAILURE)
 
-WebUI.click(findTestObject('Setting Check Point/Page_Gala Dinner MMS GROUP Indonesia - Admin Dashboard/a_Setting-Check-Point'))
+WebUI.click(findTestObject('Setting Check Point/Page_Gala Dinner MMS GROUP Indonesia - Admin Dashboard/span_Setting_Check-point'))
 
 WebUI.takeFullPageScreenshot()
 

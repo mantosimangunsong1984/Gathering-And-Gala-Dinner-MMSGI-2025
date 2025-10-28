@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>input_interval_countdown_1</name>
+   <name>input_Location-Name-New</name>
    <tag></tag>
-   <elementGuidId>416b00d9-4054-4cd9-bf0a-a95f08954d51</elementGuidId>
+   <elementGuidId>40e0322b-9138-4726-a908-e1e832cdddb4</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value>input.config-input</value>
+         <value>#location_name</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//input[@value='3000']</value>
+         <value>//input[@id='location_name']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
-         <value>.config-input >> nth=0</value>
+         <value>internal:role=textbox[name=&quot;Location Name&quot;i]</value>
       </entry>
    </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>235e5f55-a5f4-4704-97bc-d10c84235dd7</webElementGuid>
+      <webElementGuid>1af28a4b-1cc0-4e93-8395-441705da3183</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,86 +37,78 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>16e030de-c55e-4250-9bfc-7a0c5c2073a9</webElementGuid>
+      <webElementGuid>17addb5a-6b53-43cd-99c3-baec694e717e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>config-input</value>
-      <webElementGuid>2bb8548a-fe1b-4981-af69-9ad1e3fa857f</webElementGuid>
+      <value>form-control form-control</value>
+      <webElementGuid>0c9afbe2-bbf1-4627-b55d-137a4783181e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>location_name</value>
+      <webElementGuid>532e3787-0871-4e32-9185-dc7531b8e8f2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>location_name</value>
+      <webElementGuid>83afab71-4660-4acc-ab4e-dc8225e57840</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>placeholder</name>
       <type>Main</type>
-      <value>Input</value>
-      <webElementGuid>d9c97941-722c-4e0e-895a-1695f8561a2a</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>value</name>
-      <type>Main</type>
-      <value>3000</value>
-      <webElementGuid>fd983d72-82bc-46b3-991a-437108444b57</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>data-config-name</name>
-      <type>Main</type>
-      <value>interval_countdown</value>
-      <webElementGuid>ace94ace-5026-43bb-8474-7cd0908a9063</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>data-key</name>
-      <type>Main</type>
-      <value>0</value>
-      <webElementGuid>da96da2a-5182-4b80-8060-6a70523c5552</webElementGuid>
+      <value>Location Name</value>
+      <webElementGuid>ecdd2b52-e548-4d99-8d6d-f3cc75c57e0a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;content&quot;)/div[@class=&quot;container-fluid&quot;]/div[@class=&quot;card shadow mb-4&quot;]/div[@class=&quot;card-body&quot;]/div[@class=&quot;config_container&quot;]/div[@class=&quot;config-row&quot;]/input[@class=&quot;config-input&quot;]</value>
-      <webElementGuid>38c94fbc-df86-413b-a448-c2db8f3eae52</webElementGuid>
+      <value>id(&quot;formAdd&quot;)/div[@class=&quot;modal-content&quot;]/div[@class=&quot;modal-body&quot;]/div[1]/div[1]/div[@class=&quot;form-group row&quot;]/div[@class=&quot;col-sm-12&quot;]/input[@id=&quot;location_name&quot;]</value>
+      <webElementGuid>e7e1c702-28f3-4576-84e9-a8931894903c</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//input[@value='3000']</value>
-      <webElementGuid>2c6cd3c5-d05a-4583-9594-29fcb1f2f5df</webElementGuid>
+      <value>//input[@id='location_name']</value>
+      <webElementGuid>76cf35b2-ac60-4da8-b021-1dcb88d46800</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='content']/div/div/div[2]/div[2]/div/input</value>
-      <webElementGuid>b9e94ae1-55a4-4696-8349-0a4641d8dbcd</webElementGuid>
+      <value>//form[@id='formAdd']/div/div[2]/div/div/div/div/input</value>
+      <webElementGuid>9ca147d2-0f2a-48a6-9a11-d8c3c3d762cc</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//input</value>
-      <webElementGuid>03afe9e9-687b-4ab2-9c17-8e76a50115a1</webElementGuid>
+      <value>//div/input</value>
+      <webElementGuid>904ae223-9f62-4d9b-bba8-4aada18e82d4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//input[@type = 'text' and @placeholder = 'Input']</value>
-      <webElementGuid>d723b005-86a5-4c87-ad24-8943095f2148</webElementGuid>
+      <value>//input[@type = 'text' and @name = 'location_name' and @id = 'location_name' and @placeholder = 'Location Name']</value>
+      <webElementGuid>c4dfdb59-e35f-4da3-aa7c-ca97a8f6a96b</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

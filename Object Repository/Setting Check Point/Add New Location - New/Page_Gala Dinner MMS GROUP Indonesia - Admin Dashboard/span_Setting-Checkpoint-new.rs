@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>span_Configuration-Setting</name>
+   <name>span_Setting-Checkpoint-new</name>
    <tag></tag>
-   <elementGuidId>038f8564-e5e0-4dbb-ba0c-3051da795d3a</elementGuidId>
+   <elementGuidId>03912c06-9702-4cd0-96fb-deba39a7dbaa</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
@@ -11,14 +11,14 @@
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//ul[@id='accordionSidebar']/li[11]/a/span</value>
+         <value>//ul[@id='accordionSidebar']/li[14]/a/span</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
-         <value>internal:role=link[name=&quot; Configuration Setting&quot;i]</value>
+         <value>internal:role=link[name=&quot; Setting Check Point&quot;i]</value>
       </entry>
    </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
@@ -29,15 +29,15 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>ee9d3df0-32ae-4682-9ec3-6b13e5cfa2a2</webElementGuid>
+      <webElementGuid>ac025bc3-32d9-45ce-a2c1-3d40d20baf74</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>Configuration Setting</value>
-      <webElementGuid>c60f594f-b9d3-4e66-a8f7-729015efe44c</webElementGuid>
+      <value>Setting Check Point</value>
+      <webElementGuid>d069f195-6dcb-4413-bcd6-fb163f55ac00</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,70 +45,70 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;accordionSidebar&quot;)/li[@class=&quot;nav-item&quot;]/a[@class=&quot;nav-link&quot;]/span[1]</value>
-      <webElementGuid>b1451a4e-e769-400e-a8b1-2d376791185e</webElementGuid>
+      <webElementGuid>87fd3b24-2901-493d-90ca-7dd16af9888c</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//ul[@id='accordionSidebar']/li[11]/a/span</value>
-      <webElementGuid>ec83d7c4-8e78-4122-b004-d6ad0072d436</webElementGuid>
+      <value>//ul[@id='accordionSidebar']/li[14]/a/span</value>
+      <webElementGuid>833f79f6-fc1d-4059-976b-1e1281f462aa</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Display Spinner'])[1]/following::span[1]</value>
-      <webElementGuid>070dc54e-4491-4874-9c84-a4f7d555d0f6</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Roles'])[1]/following::span[1]</value>
+      <webElementGuid>b333521b-1628-4f34-adaf-06ad006b9e9a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Check Point Summary'])[1]/following::span[2]</value>
-      <webElementGuid>4137a600-af87-4efc-84e7-b986ac715d5f</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Setting User'])[1]/following::span[2]</value>
+      <webElementGuid>75d57afc-bd40-4b58-92c6-7951bcb6303b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Setting User'])[1]/preceding::span[1]</value>
-      <webElementGuid>cccafb97-2a1f-40e6-a323-668a1b0d29f4</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Performance'])[1]/preceding::span[1]</value>
+      <webElementGuid>955f4a3b-9a1a-4b56-b06a-01e1381e4cef</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Roles'])[1]/preceding::span[2]</value>
-      <webElementGuid>f4c31735-29cd-48e1-8a09-0426850fc89e</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Manto'])[1]/preceding::span[2]</value>
+      <webElementGuid>4b9fd338-89e2-4cd7-9b70-ec1a8c579b0e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>//*/text()[normalize-space(.)='Configuration Setting']/parent::*</value>
-      <webElementGuid>be32aedd-20c5-4de6-9370-6392226033d9</webElementGuid>
+      <value>//*/text()[normalize-space(.)='Setting Check Point']/parent::*</value>
+      <webElementGuid>55921211-3183-4997-a008-3dc38fdbac83</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//li[11]/a/span</value>
-      <webElementGuid>c0a3aead-a744-4a53-99a7-fc7083ad096b</webElementGuid>
+      <value>//li[14]/a/span</value>
+      <webElementGuid>97dd3d1d-08d8-40a4-b1e0-90da610110f0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//span[(text() = 'Configuration Setting' or . = 'Configuration Setting')]</value>
-      <webElementGuid>45355ca9-bb32-46be-9a7a-5b1b0a6fda21</webElementGuid>
+      <value>//span[(text() = 'Setting Check Point' or . = 'Setting Check Point')]</value>
+      <webElementGuid>81106b6f-7276-4e61-85bd-ec16c2733d3e</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

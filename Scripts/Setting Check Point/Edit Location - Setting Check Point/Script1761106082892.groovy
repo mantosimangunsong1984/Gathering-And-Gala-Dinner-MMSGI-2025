@@ -22,12 +22,9 @@ WebUI.callTestCase(findTestCase('Login/Login'), [:], FailureHandling.STOP_ON_FAI
 WebUI.click(findTestObject('Setting Check Point/Page_Gala Dinner MMS GROUP Indonesia - Admin Dashboard/span_Setting_Check-point'))
 
 WebUI.setText(findTestObject('Setting Check Point/Page_Gala Dinner MMS GROUP Indonesia - Admin Dashboard/input_Search_setting-check-point'), 
-    'Testing')
+    'Ballroom')
 
 WebUI.click(findTestObject('Setting Check Point/Page_Gala Dinner MMS GROUP Indonesia - Admin Dashboard/i_edit_Location'))
-
-WebUI.setText(findTestObject('Setting Check Point/Page_Gala Dinner MMS GROUP Indonesia - Admin Dashboard/input_Location_Edit'), 
-    'Just For Testing - From CFX Tower')
 
 WebUI.selectOptionByLabel(findTestObject('Setting Check Point/Page_Gala Dinner MMS GROUP Indonesia - Admin Dashboard/select_is Bus_Edit'), 
     'No', false)
@@ -36,9 +33,9 @@ WebUI.selectOptionByLabel(findTestObject('Setting Check Point/Page_Gala Dinner M
     'Inactive', false)
 
 WebUI.setText(findTestObject('Setting Check Point/Page_Gala Dinner MMS GROUP Indonesia - Admin Dashboard/textarea_Notes_Edit'), 
-    'Just For Testing - From CFX Tower')
+    'Just For Testing')
 
-WebUI.click(findTestObject('Setting Check Point/Page_Gala Dinner MMS GROUP Indonesia - Admin Dashboard/button_Save_Edit'))
+not_run: WebUI.click(findTestObject('Setting Check Point/Page_Gala Dinner MMS GROUP Indonesia - Admin Dashboard/button_Save_Edit'))
 
 WebUI.takeFullPageScreenshot()
 

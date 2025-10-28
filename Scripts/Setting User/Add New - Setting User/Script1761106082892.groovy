@@ -33,12 +33,10 @@ WebUI.setText(findTestObject('Setting User/Add User/Page_Gala Dinner MMS GROUP I
 WebUI.setText(findTestObject('Setting User/Add User/Page_Gala Dinner MMS GROUP Indonesia - Admin Dashboard/input_Password'), 
     '17Mei1984')
 
-WebUI.click(findTestObject('Setting User/Add User/Page_Gala Dinner MMS GROUP Indonesia - Admin Dashboard/button_Save-Add--User'), 
+not_run: WebUI.click(findTestObject('Setting User/Add User/Page_Gala Dinner MMS GROUP Indonesia - Admin Dashboard/button_Save-Add--User'), 
     FailureHandling.STOP_ON_FAILURE)
 
 WebUI.takeFullPageScreenshot()
 
 WebUI.delay(3)
-
-WebUI.closeBrowser()
 

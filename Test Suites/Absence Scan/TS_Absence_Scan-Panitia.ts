@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestSuiteEntity>
    <description></description>
-   <name>TS_Setting-User</name>
+   <name>TS_Absence_Scan-Panitia</name>
    <tag></tag>
    <isRerun>false</isRerun>
    <mailRecipient></mailRecipient>
@@ -10,33 +10,40 @@
    <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
    <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
    <rerunImmediately>true</rerunImmediately>
-   <testSuiteGuid>02ab2389-b4cb-4af2-b5e2-5b3a9f32e99f</testSuiteGuid>
+   <testSuiteGuid>81321af6-5171-444d-bd51-7c5cbf93a367</testSuiteGuid>
    <testCaseLink>
-      <guid>8e338794-db53-4392-86b6-dc3b673da53a</guid>
+      <guid>feaa4f86-c5ad-477f-85f7-ec3571bfaf30</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Setting User/Add New - Setting User</testCaseId>
+      <testCaseId>Test Cases/Absence Scan/Panitia/Check In Panitia Day 1 - CFX to KRB</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>2fd7ff49-2de0-4960-aaf8-e18d42eaa3ce</guid>
+      <guid>37f629ba-7d84-49aa-8074-8620fc8af9d2</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Setting User/Edit Data Setting User</testCaseId>
+      <testCaseId>Test Cases/Absence Scan/Panitia/Check In Panitia Day 1 - KRB to BIGLAND</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>43f0dd7a-e7b8-43b2-aadc-ef4ac7054811</guid>
+      <guid>50900185-3562-4ef1-9a6d-03820d5635c5</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Setting User/Search Setting User</testCaseId>
+      <testCaseId>Test Cases/Absence Scan/Panitia/Check In Panitia Day 2 - Ballroom Bigland</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>7a759bb1-9a66-476f-926e-aa91779c47f1</guid>
+      <guid>c0d34621-86c7-45d8-a022-939d9eee5a2f</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Setting User/View Page Setting User</testCaseId>
+      <testCaseId>Test Cases/Absence Scan/Panitia/Check In Panitia Day 2 - Check In Gala Dinner</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>51baa9be-47da-4a2f-ad3f-35f630af9d53</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Absence Scan/Panitia/Check Out Panitia Day 2 - Check Out Gala Dinner</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
 </TestSuiteEntity>
